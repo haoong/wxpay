@@ -3,13 +3,13 @@
     "type": "library",
     "description": "wxpay for laravel",
     "keywords": ["wxpay", "wechat", "laravel", "lumen"],
-    "homepage": "https://gitee.com/haoong",
+    "homepage": "https://github.com/haoong",
     "license": "MIT",
     "authors": [
         {
             "name": "Harold Chen",
             "email": "cyi@haoong.com",
-            "homepage": "https://gitee.com/haoong"
+            "homepage": "https://github.com/haoong"
         }
     ],
     "minimum-stability": "dev",
