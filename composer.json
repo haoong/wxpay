@@ -1,0 +1,24 @@
+{
+    "name": "haoong/wxpay",
+    "type": "library",
+    "description": "wxpay for laravel",
+    "keywords": ["wxpay", "wechat", "laravel", "lumen"],
+    "homepage": "https://gitee.com/haoong",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harold Chen",
+            "email": "cyi@haoong.com",
+            "homepage": "https://gitee.com/haoong"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "WxPay\\": "src/"
+        }
+    }
+}
